@@ -1,2 +1,1 @@
-# shoppingwreb
-小型購物網站
+# Shopping Website Implementation
